@@ -17,4 +17,4 @@ Welcome to my fan-made website dedicated to the iconic horror franchise **Five N
 
 ## 📸 Preview
 
-![Screenshot of the homepage](screenshot2025.png)
+![Screenshot of the homepage](Screenshot2025.png)
